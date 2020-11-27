@@ -61,5 +61,12 @@
   ],
   "dependencies": {
     "download": "^8.0.0"
-  }
+  },
+  "keywords": [
+    "node",
+    "es6",
+    "fetch",
+    "github",
+    "repository"
+  ]
 }
