@@ -1,6 +1,6 @@
 {
   "branches": "main",
-  "repositoryUrl": "https://github.com/NimbleWing/download-github-repo",
+  "repositoryUrl": "https://github.com/NimbleWing/fetch-github-repo",
   "debug": "true",
   "plugins": [
     "@semantic-release/commit-analyzer",

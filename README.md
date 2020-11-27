@@ -4,7 +4,7 @@ Download and extract a GitHub repository from node.
 # Installation
 
 ```shell
-$ npm @nwing/download-github-repo
+$ npm @nwing/fetch-github-repo
 ```
 
 # License

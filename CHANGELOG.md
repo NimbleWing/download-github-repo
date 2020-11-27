@@ -3,4 +3,4 @@
 
 ### Features
 
-* add download api ([8d568f9](https://github.com/NimbleWing/download-github-repo/commit/8d568f9c02074e402d9b2832fe9a23e2f64150c5))
+* add download api ([8d568f9](https://github.com/NimbleWing/fetch-github-repo/commit/8d568f9c02074e402d9b2832fe9a23e2f64150c5))

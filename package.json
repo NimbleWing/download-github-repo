@@ -1,5 +1,5 @@
 {
-  "name": "@nwing/download-github-repo",
+  "name": "@nwing/fetch-github-repo",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
@@ -45,13 +45,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NimbleWing/download-github-repo.git"
+    "url": "git+https://github.com/NimbleWing/fetch-github-repo.git"
   },
   "author": "NimbleWing (http://github.com/NimbleWing)",
   "bugs": {
-    "url": "https://github.com/NimbleWing/download-github-repo/issues"
+    "url": "https://github.com/NimbleWing/fetch-github-repo/issues"
   },
-  "homepage": "https://github.com/NimbleWing/download-github-repo#readme",
+  "homepage": "https://github.com/NimbleWing/fetch-github-repo#readme",
   "files": [
     "package.json",
     "dist/",
