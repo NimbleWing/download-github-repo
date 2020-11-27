@@ -17,7 +17,7 @@ function github($repo) {
   const { name, owner, branch } = $repo;
   return `https://github.com/${owner}/${name}/archive/${branch}.zip`;
 }
-async function download($repo, $destination) {
+async function fetch($repo, $destination) {
   const url = github(normalize($repo));
   try {
     await Download(url, $destination, { extract: true, strip: 1 });
@@ -30,4 +30,4 @@ async function download($repo, $destination) {
     }
   }
 }
-export default download;
+export default fetch;
