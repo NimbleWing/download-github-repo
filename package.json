@@ -2,6 +2,7 @@
   "name": "@nwing/fetch-github-repo",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "description": "Download and extract a GitHub repository from node.",
   "scripts": {
     "commit": "git-cz",
     "build": "babel src -d dist",
