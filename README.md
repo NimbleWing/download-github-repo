@@ -1,4 +1,4 @@
-# Download Github Repo
+# Fetch Github Repo
 Download and extract a GitHub repository from node.
 
 # Installation
