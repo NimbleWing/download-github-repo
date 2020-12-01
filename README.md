@@ -10,6 +10,15 @@ Download and extract a GitHub repository from node.
 $ npm @nwing/fetch-github-repo
 ```
 
+# Usage
+```javascript
+import fetchGithubRepo from '@nwing/fetch-github-repo';
+
+(async ()=> {
+  await fetchGithubRepo('NimbleWing/fetch-github-repo', '.');
+})();
+```
+
 # License
 
 MIT
