@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/NimbleWing/fetch-github-repo/compare/v1.0.1...v1.0.2) (2020-12-01)
+
+
+### Bug Fixes
+
+* **README:** add Usage ([b6fd997](https://github.com/NimbleWing/fetch-github-repo/commit/b6fd997c198382eff08f682391e8261cebd666b8))
+
 ## [1.0.1](https://github.com/NimbleWing/fetch-github-repo/compare/v1.0.0...v1.0.1) (2020-11-27)
 
 
