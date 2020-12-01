@@ -60,6 +60,7 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
+    "@babel/runtime": "^7.12.5",
     "download": "^8.0.0"
   },
   "keywords": [
